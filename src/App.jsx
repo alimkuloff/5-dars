@@ -54,11 +54,14 @@ function App() {
               <p>Ghost of Tsushima</p>
               <small>war Battle</small>
               <div className={c.reyting}>
+              <p>4.5</p>
+              <div>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-half"></i>
+              </div>
               </div>
               </div>
             </div>
@@ -68,11 +71,14 @@ function App() {
               <p>Need for Speed</p>
               <small>Racing</small>
               <div className={c.reyting}>
+              <p>4.5</p>
+              <div>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-half"></i>
+              </div>
               </div>
               </div>
             </div>
@@ -82,11 +88,14 @@ function App() {
               <p>The Witcher Hunt</p>
               <small>war Battle</small>
               <div className={c.reyting}>
+              <p>4.5</p>
+              <div>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-half"></i>
+              </div>
               </div>
               </div>
             </div>
@@ -96,11 +105,14 @@ function App() {
               <p>Free Fire</p>
               <small>war Battle</small>
               <div className={c.reyting}>
+              <p>4.5</p>
+              <div>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-half"></i>
+              </div>
               </div>
               </div>
             </div>
@@ -110,11 +122,14 @@ function App() {
               <p>Need for Speed</p>
               <small>Racing</small>
               <div className={c.reyting}>
+              <p>4.5</p>
+              <div>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-half"></i>
+              </div>
               </div>
               </div>
             </div>
@@ -124,11 +139,14 @@ function App() {
               <p>Ghost of Tsushima</p>
               <small>war Battle</small>
               <div className={c.reyting}>
+              <p>4.5</p>
+              <div>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-half"></i>
+              </div>
               </div>
               </div>
             </div>
@@ -138,11 +156,14 @@ function App() {
               <p>Ghost of Tsushima</p>
               <small>war Battle</small>
               <div className={c.reyting}>
+              <p>4.5</p>
+              <div>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-half"></i>
+              </div>
               </div>
               </div>
             </div>
@@ -152,11 +173,14 @@ function App() {
               <p>Ghost of Tsushima</p>
               <small>war Battle</small>
               <div className={c.reyting}>
+                <p>4.5</p>
+              <div>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-fill"></i>
               <i class="bi bi-star-half"></i>
+              </div>
               </div>
               </div>
             </div>
